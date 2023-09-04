@@ -1,0 +1,18 @@
+{
+    "name": "tkachikov/enum-values",
+    "description": "Set methods for get values and keys from a enum",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tkachikov\\EnumValues\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ткачиков Александр",
+            "email": "a.tkachikov@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
